@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/curso_flutter_sql_lite/MainActivity.java
+ com.example.curso_flutter_sql_lite.MainActivity
+com/example/curso_flutter_sql_lite/BuildConfig.java
+ com.example.curso_flutter_sql_lite.BuildConfig
