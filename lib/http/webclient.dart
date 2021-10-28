@@ -7,7 +7,8 @@ import 'package:http_interceptor/http_interceptor.dart';
 import 'interceptors/logging_interceptor.dart';
 
 Client client = InterceptedClient.build(interceptors: [
-  LoggingInterceptor(),
-]);
+  LoggingInterceptor()],
+  requestTimeout: Duration(seconds: 10)
+);
 
 

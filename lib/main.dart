@@ -1,6 +1,7 @@
 import 'package:curso_flutter_sql_lite/screens/dashboard.dart';
 import 'package:flutter/material.dart';
 
+import 'components/transaction_auth_dialog.dart';
 import 'http/webclient.dart';
 import 'models/contact.dart';
 import 'models/transaction.dart';
